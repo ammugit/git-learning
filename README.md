@@ -1,2 +1,2 @@
 # git-learning
-To Learn GIT 
+To Learn GIT and do practical sessions
